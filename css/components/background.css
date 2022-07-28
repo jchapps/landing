@@ -1,0 +1,10 @@
+.background {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 100px;
+}
+
+.background h1, h2 {
+  color: white;
+  text-shadow: 1px 1px #5c5959;
+}

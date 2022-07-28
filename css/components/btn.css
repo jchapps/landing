@@ -1,0 +1,20 @@
+.btn-medium {
+    border: 2px solid lightgray;
+    padding: 8px 16px;
+    border-radius: 70px;
+    color: white;
+    background-color: blue;
+    border: 2px solid blue;
+    transition: 0.5s;
+  }
+
+  .btn-medium:hover {
+    color: white;
+    background-color: blueviolet;
+    border: 2px solid blueviolet;
+    transition: 0.5s;
+  }
+
+  .btn-medium h1, h2 {
+    padding-bottom: 5px;
+  }
